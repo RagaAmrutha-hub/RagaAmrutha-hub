@@ -1,13 +1,11 @@
 # Hi, I'm Duvvu Raga Amrutha 👋
 
 I'm a Computer Science Engineering student passionate about software development and building technology-driven solutions that solve real-world problems.</br>
-
 Currently focused on Java, Full-Stack Web Development, and Data Structures & Algorithms.</br>
 
 I enjoy developing web applications and exploring new technologies through hands-on projects. My work includes a Water Quality Monitoring and Reporting System that helps users monitor water quality parameters and report community issues through an interactive web platform.</br>
 
 Skills & Technologies:
-
 * Java
 * SQL & MySQL
 * HTML, CSS, JavaScript
@@ -15,20 +13,6 @@ Skills & Technologies:
 * Object-Oriented Programming (OOP)
 * Data Structures & Algorithms
 * Git & GitHub
-
-Currently Learning:
-
-* Advanced Java
-* Spring Boot
-* Modern Full-Stack Development
-* Software Engineering Best Practices
-
-Highlights:
-
-* BE Computer Science Engineering Student 
-* NPTEL Certified in Java Programming and DBMS
-* Hackathon Participant
-* Web Developer Intern
 
 📫 Reach me at: [ragaamrutha3@gmail.com](mailto:ragaamrutha3@gmail.com)  </br>
 
